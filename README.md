@@ -25,5 +25,7 @@ The project files and folders are organized as follows: (#=folder, *=file)
 ## Authors
 ---
 *Loran Mills		(lsmills24@byui.edu)
-*
-*
+*Zanna Hannon
+*Tyson Mergel
+*Juan David
+*Jessica Angulo
